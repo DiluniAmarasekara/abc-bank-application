@@ -1,4 +1,7 @@
-Requirement: ABC bank provides banking facilities for their customers. Each customer can have multiple Accounts. Customer can perform unlimited number of transactions (deposit or withdrawal) with an any given account. Customers are not allowed to have join accounts (ie: each account is owned by a single customer) ABC bank officers need to see summary of transactions at end of each day.
+Requirement: ABC bank provides banking facilities for their customers.
+Each customer can have multiple Accounts. Customer can perform unlimited number of transactions (deposit or withdrawal) with an any given account.
+Customers are not allowed to have join accounts (ie: each account is owned by a single customer)
+ABC bank officers need to see summary of transactions at end of each day.
 
 #Technology stack
 
