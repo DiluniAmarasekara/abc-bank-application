@@ -7,8 +7,7 @@
 #Create database by name 'abc_bank_db'
 
 #To be able to run Spring Boot app, first you will need to build it 
-
-#To build Spring Boot app into a single executable Jar file with a Maven, use the below command
+#If you are not using any IDE, to build Spring Boot app into a single executable Jar file with a Maven, use the below command
 #You will need to run it from the project folder which contains the pom.xml file
 
 	mvn install
